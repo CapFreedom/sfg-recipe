@@ -1,4 +1,4 @@
-package com.example.sfgrecipe;
+package com.example.recipe;
 
 import org.junit.Test;
 import org.junit.runner.RunWith;
